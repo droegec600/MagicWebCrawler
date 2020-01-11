@@ -1,2 +1,2 @@
 # MagicWebCrawler
-Basedf on DRKSpider
+Based on DRKSpider
