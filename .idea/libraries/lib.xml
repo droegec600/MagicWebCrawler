@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DRKSpider4/lib/Java8/commons-lang3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DRKSpider4/lib/Java8/jsoup-1.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DRKSpider4/lib/Java8/rsyntaxtextarea .jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

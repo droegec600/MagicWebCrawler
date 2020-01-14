@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="classes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DRKSpider4/build/classes/commons-lang3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DRKSpider4/build/classes/rsyntaxtextarea.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

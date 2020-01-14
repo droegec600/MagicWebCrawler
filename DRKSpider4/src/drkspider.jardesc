@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="E:/APPS/Export/DRKSpiderJava/drkspider.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/DRKSpiderJava/drkspider.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=DRKSpiderJava/&lt;ar.com.drk.drkspiderjava{EntryPoint.java[EntryPoint" manifestLocation="/DRKSpiderJava/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=DRKSpiderJava/&lt;ar.com.drk.drkspiderjava.gui"/>
+        <javaElement handleIdentifier="=DRKSpiderJava/&lt;ar.com.drk.drkspiderjava.model"/>
+        <javaElement handleIdentifier="=DRKSpiderJava/&lt;ar.com.drk.drkspiderjava.gui.panes"/>
+        <javaElement handleIdentifier="=DRKSpiderJava/&lt;ar.com.drk.drkspiderjava.gui.actions"/>
+        <javaElement handleIdentifier="=DRKSpiderJava/&lt;ar.com.drk.drkspiderjava.model.helpers"/>
+        <file path="/DRKSpiderJava/COPYING.txt"/>
+        <javaElement handleIdentifier="=DRKSpiderJava/&lt;ar.com.drk.drkspiderjava.processor"/>
+        <file path="/DRKSpiderJava/RSyntaxTextArea.License.txt"/>
+        <javaElement handleIdentifier="=DRKSpiderJava/&lt;ar.com.drk.drkspiderjava.exceptions"/>
+        <javaElement handleIdentifier="=DRKSpiderJava/&lt;ar.com.drk.drkspiderjava"/>
+        <file path="/DRKSpiderJava/ReadMe.txt"/>
+        <javaElement handleIdentifier="=DRKSpiderJava/&lt;ar.com.drk.drkspiderjava.model.exporters"/>
+        <javaElement handleIdentifier="=DRKSpiderJava/&lt;images"/>
+        <file path="/DRKSpiderJava/manifest"/>
+        <javaElement handleIdentifier="=DRKSpiderJava/&lt;ar.com.drk.drkspiderjava.gui.helpers"/>
+    </selectedElements>
+</jardesc>
