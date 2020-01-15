@@ -1,633 +1,625 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="MagicWebCrawler:jar" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0537b514-e586-4bc8-9357-280d8b50664c" name="Default Changelist" comment="Initial Version 1.0">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MagicWebCrawler_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/DRKSpider5_org.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/.classpath-dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/.netbeans_automatic_build" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/.netbeans_update_resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/COPYING.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/DRKSpiderJavaSrc.7z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/RSyntaxTextArea.License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/DRKTools.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/EntryPoint$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/EntryPoint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/ProgressListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/WorkManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/exceptions/CrawlerInterruptedException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/exceptions/RobotsNotFoundException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/AboutDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/AboutDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/AboutDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/CheckWebUpdates.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ContentSearchDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ContentSearchDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ContentSearchDlg$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ContentSearchDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ErrorLinks$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ErrorLinks$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ErrorLinks$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ErrorLinks$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ErrorLinks$SwingAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ErrorLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ExportDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ExportDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ExportDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/GenericNodeInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$MyCellRenderer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/InfoPaneFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/LoadTreeWorker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$AboutAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$CClrSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$CSearch$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$CSearch$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$CSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$CrawlParameters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$FeedbackAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$FoundListModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$HelpAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$RecheckBrokenLinks$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$RecheckBrokenLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$Recrawl$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$Recrawl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$SettingsAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$SiteSummary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$StartCrawler$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$StartCrawler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$StopCrawler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SEOReviewDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SEOReviewDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SEOReviewDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SaveTreeWorker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchLinksDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchLinksDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchLinksDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchNodesDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchNodesDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchNodesDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchWithGoogle$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchWithGoogle$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchWithGoogle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SettingsDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SettingsDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SettingsDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowLinks$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowLinks$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowLinks$ExportAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowLinks$SwingAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowNodes$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowNodes$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowNodes$ExportAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowNodes$SwingAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowNodes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SiteOpenDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SiteOpenDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SiteOpenDlg$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SiteOpenDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SpiderTreeCellRederer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SummaryDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SummaryDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/AbstractSpiderAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/CopyNodeURL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/ExportTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/GoogleSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/SEOReview.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/SearchLinksTo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/SearchNodeGoogleLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/SearchNodes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/ShowDeepErrorLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/ShowDeepErrorNodes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/ShowErrorLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/ShowNodeInBrowser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/SiteWideSeoReview.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/SourceLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/TreeLoad.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/TreeSave.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/CookieTableModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/DRKLinkCellRenderer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/DRKLinkTableModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/MetaTagTableModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/WebTreeNodeTableModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/GenericNodeInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$4$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/InfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/InfoPaneFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/DRKLink.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/MetaTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/NodeTextLocation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/PageSEOReview$KeywordInformation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/PageSEOReview.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/Robots.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/SiteSEOReview.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeModel$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeModel$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeModel$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeNode$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeNodeListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/exporters/CSVExporter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/exporters/Exporter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/exporters/PlainTextExporter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/exporters/XMLExporter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/helpers/SerializableCookieStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/processor/Fehler.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/processor/HTMLParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/processor/JavascriptParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/processor/NullParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/processor/Parser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/processor/StyleSheetParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/commons-lang3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/drkspider.jardesc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/bad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/control_play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/control_play_new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/control_repeat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/control_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/find.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/forbiden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/good.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/link_go.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/load_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/logo_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/parameters.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/save_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/seo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/site_wide_seo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/uk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/images/world_link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/build/classes/rsyntaxtextarea.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/lib/Java11/commons-lang3-3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/lib/Java11/jsoup-1.12.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/lib/Java11/rsyntaxtextarea.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/lib/Java8/commons-lang3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/lib/Java8/jsoup-1.11.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/lib/Java8/rsyntaxtextarea .jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/lib/rsyntaxtextarea.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/.classpath-dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/COPYING.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/DRKSpiderJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/RSyntaxTextArea.License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/DRKTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/EntryPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/ProgressListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/WorkManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/exceptions/CrawlerInterruptedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/exceptions/RobotsNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/AboutDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/CheckWebUpdates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/ContentSearchDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/ErrorLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/ExportDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/GenericNodeInfoPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/HTMLInfoPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/InfoPaneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/LoadTreeWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/MainWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SEOReviewDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SaveTreeWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SearchLinksDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SearchNodesDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SearchWithGoogle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SettingsDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/ShowLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/ShowNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SiteOpenDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SpiderTreeCellRederer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SummaryDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/AbstractSpiderAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/CopyNodeURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/ExportTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/GoogleSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/SEOReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/SearchLinksTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/SearchNodeGoogleLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/SearchNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/ShowDeepErrorLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/ShowDeepErrorNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/ShowErrorLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/ShowNodeInBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/SiteWideSeoReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/SourceLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/TreeLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/TreeSave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/helpers/CookieTableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/helpers/DRKLinkCellRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/helpers/DRKLinkTableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/helpers/MetaTagTableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/helpers/WebTreeNodeTableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/GenericNodeInfoPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/InfoPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/InfoPaneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/DRKLink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/MetaTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/NodeTextLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/PageSEOReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/Robots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/SiteSEOReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/WebTreeModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/WebTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/WebTreeNodeListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/exporters/CSVExporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/exporters/Exporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/exporters/PlainTextExporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/exporters/XMLExporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/helpers/SerializableCookieStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/processor/Fehler.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/processor/HTMLParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/processor/JavascriptParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/processor/NullParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/processor/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/processor/StyleSheetParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/.classpath-dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/COPYING.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/DRKSpiderJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/DRKSpiderJavaSrc.7z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/RSyntaxTextArea.License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/ar/com/drk/drkspiderjava/processor/Fehler.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/commons-lang3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/drkspider.jardesc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/bad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/control_play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/control_play_new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/control_repeat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/control_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/find.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/forbiden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/good.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/link_go.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/load_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/logo_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/parameters.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/save_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/seo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/site_wide_seo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/uk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/images/world_link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/build/rsyntaxtextarea.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/commons-lang3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/drkspider.jardesc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/bad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/control_play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/control_play_new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/control_repeat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/control_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/find.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/forbiden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/good.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/link_go.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/load_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/logo_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/parameters.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/save_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/seo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/site_wide_seo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/uk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/images/world_link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DRKSpider4/src/rsyntaxtextarea.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MagicWebCrawler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/MagicWebCrawler_jar/MagicWebCrawler.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/.classpath-dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/COPYING.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/DRKSpiderJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/MagicWebCrawler.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/RSyntaxTextArea.License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/DRKTools.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/EntryPoint$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/EntryPoint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/ProgressListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/WorkManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/exceptions/CrawlerInterruptedException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/exceptions/RobotsNotFoundException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/AboutDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/AboutDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/AboutDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/CheckWebUpdates.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ContentSearchDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ContentSearchDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ContentSearchDlg$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ContentSearchDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ErrorLinks$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ErrorLinks$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ErrorLinks$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ErrorLinks$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ErrorLinks$SwingAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ErrorLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ExportDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ExportDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ExportDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/GenericNodeInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$MyCellRenderer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/InfoPaneFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/LoadTreeWorker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$AboutAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$CClrSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$CSearch$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$CSearch$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$CSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$CrawlParameters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$FeedbackAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$FoundListModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$HelpAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$RecheckBrokenLinks$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$RecheckBrokenLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$Recrawl$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$Recrawl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$SettingsAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$SiteSummary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$StartCrawler$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$StartCrawler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$StopCrawler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SEOReviewDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SEOReviewDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SEOReviewDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SaveTreeWorker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchLinksDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchLinksDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchLinksDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchNodesDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchNodesDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchNodesDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchWithGoogle$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchWithGoogle$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchWithGoogle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SettingsDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SettingsDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SettingsDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowLinks$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowLinks$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowLinks$ExportAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowLinks$SwingAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowNodes$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowNodes$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowNodes$ExportAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowNodes$SwingAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowNodes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SiteOpenDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SiteOpenDlg$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SiteOpenDlg$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SiteOpenDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SpiderTreeCellRederer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SummaryDlg$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SummaryDlg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/AbstractSpiderAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/CopyNodeURL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/ExportTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/GoogleSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/SEOReview.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/SearchLinksTo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/SearchNodeGoogleLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/SearchNodes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/ShowDeepErrorLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/ShowDeepErrorNodes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/ShowErrorLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/ShowNodeInBrowser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/SiteWideSeoReview.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/SourceLinks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/TreeLoad.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/TreeSave.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/CookieTableModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/DRKLinkCellRenderer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/DRKLinkTableModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/MetaTagTableModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/WebTreeNodeTableModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/GenericNodeInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$4$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/InfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/InfoPaneFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/DRKLink.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/MetaTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/NodeTextLocation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/PageSEOReview$KeywordInformation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/PageSEOReview.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/Robots.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/SiteSEOReview.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeModel$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeModel$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeModel$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeNode$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeNodeListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/exporters/CSVExporter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/exporters/Exporter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/exporters/PlainTextExporter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/exporters/XMLExporter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/helpers/SerializableCookieStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/processor/Fehler.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/processor/HTMLParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/processor/JavascriptParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/processor/NullParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/processor/Parser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/processor/StyleSheetParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.classpath-dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/COPYING.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/DRKSpiderJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/DRKSpiderJavaSrc.7z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/RSyntaxTextArea.License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/ar/com/drk/drkspiderjava/processor/Fehler.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/commons-lang3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/drkspider.jardesc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/bad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/control_play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/control_play_new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/control_repeat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/control_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/find.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/forbiden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/good.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/link_go.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/load_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/logo_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/parameters.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/save_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/seo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/site_wide_seo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/uk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/world_link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/rsyntaxtextarea.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/commons-lang3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/drkspider.jardesc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/bad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/control_play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/control_play_new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/control_repeat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/control_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/find.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/forbiden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/good.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/link_go.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/load_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/logo_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/parameters.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/save_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/seo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/site_wide_seo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/uk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/world_link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MagicWebCrawler/rsyntaxtextarea.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DRKSpider5_org.zip" beforeDir="false" />
+    <list default="true" id="0537b514-e586-4bc8-9357-280d8b50664c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/MagicWebCrawler_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/MagicWebCrawlerTest_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/.classpath-dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/COPYING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/DRKSpiderJavaSrc.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/RSyntaxTextArea.License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/DRKTools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/EntryPoint$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/EntryPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/ProgressListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/WorkManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/exceptions/CrawlerInterruptedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/exceptions/RobotsNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/AboutDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/AboutDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/AboutDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/CheckWebUpdates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ContentSearchDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ContentSearchDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ContentSearchDlg$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ContentSearchDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ErrorLinks$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ErrorLinks$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ErrorLinks$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ErrorLinks$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ErrorLinks$SwingAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ErrorLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ExportDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ExportDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ExportDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/GenericNodeInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$MyCellRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/HTMLInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/InfoPaneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/LoadTreeWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$AboutAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$CClrSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$CSearch$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$CSearch$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$CSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$CrawlParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$FeedbackAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$FoundListModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$HelpAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$RecheckBrokenLinks$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$RecheckBrokenLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$Recrawl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$Recrawl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$SettingsAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$SiteSummary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$StartCrawler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$StartCrawler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow$StopCrawler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/MainWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SEOReviewDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SEOReviewDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SEOReviewDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SaveTreeWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchLinksDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchLinksDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchLinksDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchNodesDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchNodesDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchNodesDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchWithGoogle$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchWithGoogle$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SearchWithGoogle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SettingsDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SettingsDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SettingsDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowLinks$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowLinks$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowLinks$ExportAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowLinks$SwingAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowNodes$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowNodes$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowNodes$ExportAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowNodes$SwingAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/ShowNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SiteOpenDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SiteOpenDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SiteOpenDlg$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SiteOpenDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SpiderTreeCellRederer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SummaryDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/SummaryDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/AbstractSpiderAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/CopyNodeURL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/ExportTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/GoogleSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/SEOReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/SearchLinksTo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/SearchNodeGoogleLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/SearchNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/ShowDeepErrorLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/ShowDeepErrorNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/ShowErrorLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/ShowNodeInBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/SiteWideSeoReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/SourceLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/TreeLoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/actions/TreeSave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/CookieTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/DRKLinkCellRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/DRKLinkTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/MetaTagTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/helpers/WebTreeNodeTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/GenericNodeInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/InfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/InfoPaneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/DRKLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/MetaTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/NodeTextLocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/PageSEOReview$KeywordInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/PageSEOReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/Robots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/SiteSEOReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeModel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeModel$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeNode$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/WebTreeNodeListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/exporters/CSVExporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/exporters/Exporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/exporters/PlainTextExporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/exporters/XMLExporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/model/helpers/SerializableCookieStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/processor/Fehler.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/processor/HTMLParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/processor/JavascriptParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/processor/NullParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/processor/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/ar/com/drk/drkspiderjava/processor/StyleSheetParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/commons-lang3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/drkspider.jardesc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/bad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/control_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/control_play_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/control_repeat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/control_stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/forbiden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/good.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/link_go.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/load_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/logo_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/parameters.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/save_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/seo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/site_wide_seo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/uk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/images/world_link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/build/classes/rsyntaxtextarea.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/lib/Java11/commons-lang3-3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Java11/commons-lang3-3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/lib/Java11/jsoup-1.12.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Java11/jsoup-1.12.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/lib/Java11/rsyntaxtextarea.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Java11/rsyntaxtextarea.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/lib/Java8/commons-lang3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Java8/commons-lang3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/lib/Java8/jsoup-1.11.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Java8/jsoup-1.11.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/lib/Java8/rsyntaxtextarea .jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Java8/rsyntaxtextarea .jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/lib/rsyntaxtextarea.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rsyntaxtextarea.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/.classpath-dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/COPYING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/DRKSpiderJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/RSyntaxTextArea.License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/DRKTools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/EntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/ProgressListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/WorkManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/exceptions/CrawlerInterruptedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/exceptions/RobotsNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/AboutDlg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/CheckWebUpdates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/ContentSearchDlg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/ErrorLinks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/ExportDlg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/GenericNodeInfoPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/HTMLInfoPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/InfoPaneFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/LoadTreeWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/MainWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SEOReviewDlg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SaveTreeWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SearchLinksDlg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SearchNodesDlg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SearchWithGoogle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SettingsDlg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/ShowLinks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/ShowNodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SiteOpenDlg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SpiderTreeCellRederer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/SummaryDlg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/AbstractSpiderAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/CopyNodeURL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/ExportTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/GoogleSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/SEOReview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/SearchLinksTo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/SearchNodeGoogleLinks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/SearchNodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/ShowDeepErrorLinks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/ShowDeepErrorNodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/ShowErrorLinks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/ShowNodeInBrowser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/SiteWideSeoReview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/SourceLinks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/TreeLoad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/actions/TreeSave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/helpers/CookieTableModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/helpers/DRKLinkCellRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/helpers/DRKLinkTableModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/helpers/MetaTagTableModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/helpers/WebTreeNodeTableModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/GenericNodeInfoPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/InfoPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/InfoPaneFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/DRKLink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/MetaTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/NodeTextLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/PageSEOReview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/Robots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/SiteSEOReview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/WebTreeModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/WebTreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/WebTreeNodeListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/exporters/CSVExporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/exporters/Exporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/exporters/PlainTextExporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/exporters/XMLExporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/model/helpers/SerializableCookieStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/processor/Fehler.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/processor/HTMLParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/processor/JavascriptParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/processor/NullParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/processor/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/ar/com/drk/drkspiderjava/processor/StyleSheetParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/.classpath-dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/COPYING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/DRKSpiderJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/DRKSpiderJavaSrc.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/RSyntaxTextArea.License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/ar/com/drk/drkspiderjava/processor/Fehler.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/commons-lang3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/drkspider.jardesc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/bad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/control_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/control_play_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/control_repeat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/control_stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/forbiden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/good.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/link_go.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/load_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/logo_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/parameters.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/save_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/seo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/site_wide_seo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/uk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/images/world_link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/build/rsyntaxtextarea.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/commons-lang3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/drkspider.jardesc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/bad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/control_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/control_play_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/control_repeat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/control_stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/forbiden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/good.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/link_go.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/load_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/logo_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/parameters.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/save_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/seo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/site_wide_seo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/uk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/images/world_link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRKSpider4/src/rsyntaxtextarea.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MagicWebCrawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MagicWebCrawler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/.classpath-dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/COPYING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/DRKSpiderJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/RSyntaxTextArea.License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/DRKTools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/EntryPoint$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/EntryPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/ProgressListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/WorkManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/exceptions/CrawlerInterruptedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/exceptions/RobotsNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/AboutDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/AboutDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/AboutDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/CheckWebUpdates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ContentSearchDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ContentSearchDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ContentSearchDlg$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ContentSearchDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ErrorLinks$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ErrorLinks$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ErrorLinks$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ErrorLinks$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ErrorLinks$SwingAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ErrorLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ExportDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ExportDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ExportDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/GenericNodeInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane$MyCellRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/HTMLInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/InfoPaneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/LoadTreeWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$AboutAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$CClrSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$CSearch$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$CSearch$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$CSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$CrawlParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$FeedbackAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$FoundListModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$HelpAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$RecheckBrokenLinks$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$RecheckBrokenLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$Recrawl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$Recrawl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$SettingsAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$SiteSummary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$StartCrawler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$StartCrawler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow$StopCrawler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/MainWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SEOReviewDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SEOReviewDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SEOReviewDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SaveTreeWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchLinksDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchLinksDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchLinksDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchNodesDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchNodesDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchNodesDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchWithGoogle$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchWithGoogle$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SearchWithGoogle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SettingsDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SettingsDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SettingsDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowLinks$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowLinks$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowLinks$ExportAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowLinks$SwingAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowNodes$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowNodes$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowNodes$ExportAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowNodes$SwingAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/ShowNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SiteOpenDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SiteOpenDlg$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SiteOpenDlg$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SiteOpenDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SpiderTreeCellRederer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SummaryDlg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/SummaryDlg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/AbstractSpiderAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/CopyNodeURL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/ExportTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/GoogleSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/SEOReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/SearchLinksTo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/SearchNodeGoogleLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/SearchNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/ShowDeepErrorLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/ShowDeepErrorNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/ShowErrorLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/ShowNodeInBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/SiteWideSeoReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/SourceLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/TreeLoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/actions/TreeSave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/CookieTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/DRKLinkCellRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/DRKLinkTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/MetaTagTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/TablePreferences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/helpers/WebTreeNodeTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/GenericNodeInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/HTMLInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/ImageInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/InfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/InfoPaneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/JavascriptInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/gui/panes/StyleSheetInfoPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/DRKLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/MetaTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/NodeTextLocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/PageSEOReview$KeywordInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/PageSEOReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/Robots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/SiteSEOReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeModel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeModel$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeNode$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/WebTreeNodeListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/exporters/CSVExporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/exporters/Exporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/exporters/PlainTextExporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/exporters/XMLExporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/model/helpers/SerializableCookieStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/processor/Fehler.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/processor/HTMLParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/processor/JavascriptParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/processor/NullParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/processor/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/ar/com/drk/drkspiderjava/processor/StyleSheetParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.classpath-dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/COPYING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/DRKSpiderJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/DRKSpiderJavaSrc.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/RSyntaxTextArea.License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/ar/com/drk/drkspiderjava/processor/Fehler.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/commons-lang3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/drkspider.jardesc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/bad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/control_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/control_play_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/control_repeat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/control_stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/forbiden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/good.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/link_go.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/load_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/logo_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/parameters.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/save_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/seo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/site_wide_seo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/uk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/images/world_link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/build/rsyntaxtextarea.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/commons-lang3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/drkspider.jardesc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/bad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/control_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/control_play_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/control_repeat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/control_stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/forbiden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/good.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/link_go.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/load_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/logo_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/parameters.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/save_tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/seo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/site_wide_seo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/uk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/images/world_link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MagicWebCrawler/rsyntaxtextarea.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -637,7 +629,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1WLFMb1Rqr1RAm0ejfDzv1vCLvX" />
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Development\GitHubProjekt\MagicWebCrawler\DRKSpider4\MWCBuild2\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQR1EL5PAJ0wfwLTy9oYNN0mdn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -645,15 +652,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/MagicWebCrawler/ar" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Development\GitHubProjekt\MagicWebCrawler\MWCBuild2\src\lib" />
+      <recent name="C:\Development\GitHubProjekt\MagicWebCrawler\MWCBuild2\src" />
+      <recent name="C:\Development\GitHubProjekt\MagicWebCrawler\MWCBuild2\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Development\GitHubProjekt\MagicWebCrawler\MWCBuild2\src\main\resources" />
+      <recent name="C:\Development\GitHubProjekt\MagicWebCrawler\MWCBuild2\src\main" />
+      <recent name="C:\Development\GitHubProjekt\MagicWebCrawler\MWCBuild2\src\lib" />
+      <recent name="C:\Development\GitHubProjekt\MagicWebCrawler\MWCBuild2\src\main\java" />
+      <recent name="C:\Development\GitHubProjekt\MagicWebCrawler\MWCBuild2" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="EntryPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -693,70 +715,65 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0537b514-e586-4bc8-9357-280d8b50664c" name="Default Changelist" comment="" />
-      <created>1578920920475</created>
+      <created>1579079614300</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578920920475</updated>
+      <updated>1579079614300</updated>
     </task>
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Version" />
-    <MESSAGE value="Initial Version 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Version 1.0" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="89" key="#Project_Structure" timestamp="1579007157436">
+    <state x="499" y="108" key="#EntryPoint" timestamp="1579097224209">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="496" y="89" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1579007157436" />
-    <state x="576" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578922646935">
+    <state x="499" y="108" key="#EntryPoint/0.0.1536.824@0.0.1536.824" timestamp="1579097224209" />
+    <state x="361" y="74" key="#Project_Structure" timestamp="1579082094692">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="576" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1578922646935" />
-    <state x="845" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579008381133">
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1579082094692" />
+    <state x="227" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579098309446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="845" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1579008381133" />
-    <state x="523" y="23" key="CommitChangelistDialog2" timestamp="1579010167682">
+    <state x="227" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579098309446" />
+    <state x="546" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579092507333">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="523" y="23" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579010167682" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1579009747831">
+    <state x="546" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1579092507333" />
+    <state x="506" y="105" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1579082068332">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579009747831" />
-    <state width="538" height="140" key="GridCell.Tab.0.bottom" timestamp="1579004606076">
+    <state x="506" y="105" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1579082068332" />
+    <state x="116" y="305" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579081879504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="538" height="140" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579004606076" />
-    <state width="538" height="140" key="GridCell.Tab.0.center" timestamp="1579004606076">
+    <state x="116" y="305" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1579081879504" />
+    <state width="1358" height="269" key="GridCell.Tab.0.bottom" timestamp="1579099236984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="538" height="140" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579004606076" />
-    <state width="538" height="140" key="GridCell.Tab.0.left" timestamp="1579004606076">
+    <state width="1358" height="269" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579099236984" />
+    <state width="1358" height="269" key="GridCell.Tab.0.center" timestamp="1579099236984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="538" height="140" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579004606076" />
-    <state width="538" height="140" key="GridCell.Tab.0.right" timestamp="1579004606076">
+    <state width="1358" height="269" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579099236984" />
+    <state width="1358" height="269" key="GridCell.Tab.0.left" timestamp="1579099236984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="538" height="140" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579004606076" />
-    <state x="439" y="118" key="NewModule_or_Project.wizard" timestamp="1578924156529">
+    <state width="1358" height="269" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579099236984" />
+    <state width="1358" height="269" key="GridCell.Tab.0.right" timestamp="1579099236984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="439" y="118" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1578924156529" />
-    <state x="299" y="0" key="SettingsEditor" timestamp="1579009756172">
+    <state width="1358" height="269" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579099236984" />
+    <state x="299" y="71" key="Maven.ArtifactSearchDialog" timestamp="1579082214574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="299" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579009756172" />
-    <state x="81" y="102" width="935" height="421" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578923913088">
+    <state x="299" y="71" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1579082214574" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1579101794572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="81" y="102" width="935" height="421" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1578923913088" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1579006499407">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579101794572" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579094880501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579006499407" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579094880501" />
   </component>
 </project>

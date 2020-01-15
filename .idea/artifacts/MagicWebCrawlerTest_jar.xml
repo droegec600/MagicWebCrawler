@@ -3,13 +3,13 @@
     <output-path>$PROJECT_DIR$/out/artifacts/MagicWebCrawlerTest_jar</output-path>
     <root id="archive" name="MagicWebCrawler.jar">
       <element id="module-output" name="MagicWebCrawler" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/DRKSpider4/lib/Java8/commons-lang3.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/DRKSpider4/lib/Java8/jsoup-1.11.3.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/DRKSpider4/lib/Java8/rsyntaxtextarea .jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/DRKSpider4/build/classes/commons-lang3.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/DRKSpider4/build/classes/rsyntaxtextarea.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/DRKSpider4/src/rsyntaxtextarea.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/DRKSpider4/src/commons-lang3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/Java8/commons-lang3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/Java8/jsoup-1.11.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/Java8/rsyntaxtextarea .jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/build/classes/commons-lang3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/build/classes/rsyntaxtextarea.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/rsyntaxtextarea.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/commons-lang3.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
