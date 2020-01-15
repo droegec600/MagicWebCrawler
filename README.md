@@ -1,3 +1,3 @@
 # MagicWebCrawler
-Based on DRKSpider
-"# MagicWebCrawler" 
+Based on DRKSpider 4.0
+
